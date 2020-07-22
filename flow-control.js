@@ -34,3 +34,4 @@ switch (age) {
   case (age<=12 || age>=20):
   return "You have an age";
 }
+}
